@@ -1,7 +1,7 @@
 # Country Capital API
 
 ## Overview
->A flask application which returns the name of the country if a capital city is provided and uses Uvicorn ASGI web server.
+>A flask application which returns the name of the country if a capital city is provided and uses Uvicorn ASGI web server. API is available at https://countrystatecity.in/ 
 
 ## Requirements
 * Python 3.7+
