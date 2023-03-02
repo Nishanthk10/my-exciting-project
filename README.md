@@ -10,15 +10,9 @@
 
 Clone the repository:
 
-    git clone [https://github.com/country-capital](https://github.com/country-capital)
+    git clone https://github.com/Nishanthk10/my-exciting-project.git
 
-Create a project folder and a `venv` folder within:
-
-    mkdir myproject
-    cd myproject
-    python -m venv venv
-
-Activate the environment:
+Open cloned project folder and Activate the environment:
 
     venv\Scripts\activate
     
